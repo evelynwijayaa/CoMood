@@ -35,16 +35,6 @@
 			path = comood;
 			sourceTree = "<group>";
 		};
-		04E5F8642D8BB6D20081064C /* comoodTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = comoodTests;
-			sourceTree = "<group>";
-		};
-		04E5F86E2D8BB6D20081064C /* comoodUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = comoodUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				04E5F8512D8BB6D10081064C /* comood */,
-				04E5F8642D8BB6D20081064C /* comoodTests */,
-				04E5F86E2D8BB6D20081064C /* comoodUITests */,
 				04E5F8502D8BB6D10081064C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				04E5F8632D8BB6D20081064C /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				04E5F8642D8BB6D20081064C /* comoodTests */,
-			);
 			name = comoodTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				04E5F86D2D8BB6D20081064C /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				04E5F86E2D8BB6D20081064C /* comoodUITests */,
 			);
 			name = comoodUITests;
 			packageProductDependencies = (
