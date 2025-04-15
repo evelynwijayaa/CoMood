@@ -41,14 +41,9 @@ Many people struggle to consistently track their emotional well-being. Comood so
 
 ## 🖼️ Screenshots / Demo
 
-Input Mood
-![image](https://github.com/user-attachments/assets/8562cc81-adb7-4318-b747-6bd819eb14ea)
-
-Statistics
-![image](https://github.com/user-attachments/assets/403ba074-6f4b-45da-beeb-8b9f2dd39de8)
-
-Profile
-![image](https://github.com/user-attachments/assets/8e507e2b-792a-437a-b032-db8f2730e731)
+| Input Mood | Statistics | Profile |
+|------------|------------|---------|
+| ![image](https://github.com/user-attachments/assets/8562cc81-adb7-4318-b747-6bd819eb14ea) | ![image](https://github.com/user-attachments/assets/403ba074-6f4b-45da-beeb-8b9f2dd39de8) | ![image](https://github.com/user-attachments/assets/8e507e2b-792a-437a-b032-db8f2730e731) |
 
 ---
 
