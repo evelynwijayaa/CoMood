@@ -4,6 +4,15 @@
 
 ---
 
+## 👥 Team Members
+
+This project was collaboratively developed by:
+- Evelyn Wijaya  
+- Shierly Anastasia Lie  
+- Valentinus
+
+---
+
 ## 🌈 Features
 
 - 🎡 Select your daily mood using a custom carousel UI
