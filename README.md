@@ -8,7 +8,7 @@
 
 This project was collaboratively developed by:
 - Evelyn Wijaya  
-- Shierly Anastasia Lie  
+- Shierly Anastasya Lie  
 - Valentinus
 
 ---
