@@ -62,7 +62,7 @@ To run this app locally:
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/evelynwijaya/comood.git
+git clone https://github.com/evelynwijayaa/comood.git
 ```
 2. Open Comood.xcodeproj in Xcode 15 or later
 3. Run on Simulator or Device
